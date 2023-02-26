@@ -28,13 +28,15 @@ const Hero = () => {
           <h2 className="mb-5 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
             Everything you
             <br className="hidden md:block" />
-            can imagine
+            Can Buy 
             <span className="inline-block text-deep-purple-accent-400">
-              is real
+              For you
             </span>
           </h2>
           <p className="pr-5 mb-5 text-base text-gray-700 md:text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repudiandae deleniti vero optio nostrum omnis voluptatem eos incidunt accusantium nemo!
+          We offer clothes for you in an affordable price range and by reputed brands in market.
+          <br />
+          You'r always welcome to bye cloths for you and your family! 
           </p>
           <div className="flex items-center">
             <a
