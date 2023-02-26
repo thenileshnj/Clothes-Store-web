@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clothes-store-web/static/css/main.e29b2145.css",
-    "main.js": "/clothes-store-web/static/js/main.0adf3e33.js",
+    "main.js": "/clothes-store-web/static/js/main.603790be.js",
     "static/media/heroTop.jpg": "/clothes-store-web/static/media/heroTop.6e8546a372753233ea11.jpg",
     "static/media/hero.png": "/clothes-store-web/static/media/hero.676443aff45be73fe35f.png",
     "index.html": "/clothes-store-web/index.html",
     "main.e29b2145.css.map": "/clothes-store-web/static/css/main.e29b2145.css.map",
-    "main.0adf3e33.js.map": "/clothes-store-web/static/js/main.0adf3e33.js.map"
+    "main.603790be.js.map": "/clothes-store-web/static/js/main.603790be.js.map"
   },
   "entrypoints": [
     "static/css/main.e29b2145.css",
-    "static/js/main.0adf3e33.js"
+    "static/js/main.603790be.js"
   ]
 }
